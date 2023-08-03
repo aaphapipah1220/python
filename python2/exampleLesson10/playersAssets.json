@@ -1,0 +1,126 @@
+{ "columns":0,
+ "grid":
+    {
+     "height":1,
+     "orientation":"orthogonal",
+     "width":1
+    },
+ "margin":0,
+ "name":"playersAssets",
+ "spacing":0,
+ "tilecount":18,
+ "tiledversion":"1.10.1",
+ "tileheight":51,
+ "tiles":[
+        {
+         "id":0,
+         "image":"assets\/PNG\/Players\/Player Red\/playerRed_dead.png",
+         "imageheight":46,
+         "imagewidth":39
+        }, 
+        {
+         "id":1,
+         "image":"assets\/PNG\/Players\/Player Red\/playerRed_duck.png",
+         "imageheight":34,
+         "imagewidth":56
+        }, 
+        {
+         "id":2,
+         "image":"assets\/PNG\/Players\/Player Red\/playerRed_fall.png",
+         "imageheight":50,
+         "imagewidth":39
+        }, 
+        {
+         "id":3,
+         "image":"assets\/PNG\/Players\/Player Red\/playerRed_hit.png",
+         "imageheight":38,
+         "imagewidth":56
+        }, 
+        {
+         "id":4,
+         "image":"assets\/PNG\/Players\/Player Red\/playerRed_roll.png",
+         "imageheight":40,
+         "imagewidth":40
+        }, 
+        {
+         "id":5,
+         "image":"assets\/PNG\/Players\/Player Red\/playerRed_stand.png",
+         "imageheight":48,
+         "imagewidth":39
+        }, 
+        {
+         "id":6,
+         "image":"assets\/PNG\/Players\/Player Red\/playerRed_swim1.png",
+         "imageheight":50,
+         "imagewidth":47
+        }, 
+        {
+         "id":7,
+         "image":"assets\/PNG\/Players\/Player Red\/playerRed_swim2.png",
+         "imageheight":51,
+         "imagewidth":48
+        }, 
+        {
+         "id":8,
+         "image":"assets\/PNG\/Players\/Player Red\/playerRed_switch1.png",
+         "imageheight":48,
+         "imagewidth":52
+        }, 
+        {
+         "id":9,
+         "image":"assets\/PNG\/Players\/Player Red\/playerRed_switch2.png",
+         "imageheight":48,
+         "imagewidth":51
+        }, 
+        {
+         "id":10,
+         "image":"assets\/PNG\/Players\/Player Red\/playerRed_up1.png",
+         "imageheight":48,
+         "imagewidth":39
+        }, 
+        {
+         "id":11,
+         "image":"assets\/PNG\/Players\/Player Red\/playerRed_up2.png",
+         "imageheight":46,
+         "imagewidth":39
+        }, 
+        {
+         "id":12,
+         "image":"assets\/PNG\/Players\/Player Red\/playerRed_up3.png",
+         "imageheight":38,
+         "imagewidth":56
+        }, 
+        {
+         "id":13,
+         "image":"assets\/PNG\/Players\/Player Red\/playerRed_walk1.png",
+         "imageheight":48,
+         "imagewidth":39
+        }, 
+        {
+         "id":14,
+         "image":"assets\/PNG\/Players\/Player Red\/playerRed_walk2.png",
+         "imageheight":45,
+         "imagewidth":39
+        }, 
+        {
+         "id":15,
+         "image":"assets\/PNG\/Players\/Player Red\/playerRed_walk3.png",
+         "imageheight":45,
+         "imagewidth":39
+        }, 
+        {
+         "id":16,
+         "image":"assets\/PNG\/Players\/Player Red\/playerRed_walk4.png",
+         "imageheight":42,
+         "imagewidth":49
+        }, 
+        {
+         "id":17,
+         "image":"assets\/PNG\/Players\/Player Red\/playerRed_walk5.png",
+         "imageheight":38,
+         "imagewidth":64
+        }],
+ "tilewidth":64,
+ "type":"tileset",
+ "version":"1.10"
+}

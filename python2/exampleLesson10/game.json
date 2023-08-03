@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.1" orientation="orthogonal" renderorder="right-down" width="30" height="15" tilewidth="64" tileheight="64" infinite="0" nextlayerid="7" nextobjectid="37">
+ <tileset firstgid="1" source="backgroundAssets.json"/>
+ <tileset firstgid="13" source="groundAssets.json"/>
+ <tileset firstgid="67" source="enemiesAssets.json"/>
+ <tileset firstgid="91" source="itemsAssets.json"/>
+ <objectgroup id="2" name="Background">
+  <object id="1" gid="1" x="2" y="512" width="1918" height="510"/>
+  <object id="2" gid="4" x="0" y="960" width="1920" height="448"/>
+  <object id="10" gid="9" x="16" y="968" width="640" height="480"/>
+  <object id="11" gid="9" x="640" y="960" width="640" height="480"/>
+  <object id="12" gid="9" x="1280" y="960" width="640" height="480"/>
+ </objectgroup>
+ <objectgroup id="3" name="Players"/>
+ <objectgroup id="4" name="Others"/>
+ <objectgroup id="5" name="Items"/>
+ <objectgroup id="6" name="Enemies">
+  <object id="18" gid="83" x="544" y="558" width="44" height="32"/>
+  <object id="19" gid="83" x="544" y="558" width="44" height="32"/>
+  <object id="20" gid="83" x="592" y="528" width="44" height="32"/>
+  <object id="21" gid="83" x="650" y="516" width="44" height="32"/>
+  <object id="22" gid="83" x="702" y="530" width="44" height="32"/>
+  <object id="23" gid="83" x="754" y="568" width="44" height="32"/>
+  <object id="24" gid="83" x="818" y="574" width="44" height="32"/>
+  <object id="25" gid="83" x="880" y="568" width="44" height="32"/>
+  <object id="26" gid="88" x="128" y="832" width="32" height="42"/>
+  <object id="27" gid="88" x="320" y="768" width="32" height="42"/>
+  <object id="28" gid="88" x="1408" y="640" width="32" height="42"/>
+  <object id="29" gid="67" x="896" y="960" width="42" height="40"/>
+  <object id="30" gid="67" x="960" y="960" width="42" height="40"/>
+  <object id="31" gid="67" x="1024" y="960" width="42" height="40"/>
+  <object id="32" gid="67" x="1088" y="960" width="42" height="40"/>
+  <object id="33" gid="67" x="1152" y="960" width="42" height="40"/>
+  <object id="34" gid="67" x="1216" y="960" width="42" height="40"/>
+  <object id="35" gid="67" x="1280" y="960" width="42" height="40"/>
+ </objectgroup>
+ <layer id="1" name="Ground" width="30" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztkk0KgCAQRj1BVFabWhT9LbqU9z9FIzgwfYwlCK384KGJM09SY0pKSnJzwbf72T+K0WX6sTbWD9e8e1LqJG/OOtFbRfwm9GgU2ojTEl0Yv7zo184Qq+2JIczZyfisgObibMSe6J2JBdakV4t04p3KWCClH8eZ55l5z0Gcyh4G/x3enRbtTeB7uAE5IhES
+  </data>
+ </layer>
+</map>

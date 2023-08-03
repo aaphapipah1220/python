@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fc7ecb3-b78f-4416-856a-5f9c8d8a5e06" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 10/project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 11/butterfly.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 11/buttonEvent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 11/createButton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 11/createLabel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 11/createWindow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 11/gridElement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 11/kupu-kupu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 11/kupukupu.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 11/packElement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 11/placeElement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 11/project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 14/lesson14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 16/errorHandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 16/linkTkinter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 16/shortenLink.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 16/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 17/translator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 2/assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 2/combination.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 2/comment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 2/comparisonArief.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 2/comparisonExample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 2/comparisonProject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 2/logicalExample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 2/logicalProject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 3/arsip/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 3/guessTheNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 3/inputOutput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 3/magicalCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 3/miniProject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 3/randomNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 3/simpleStory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 4/and.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 4/if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 4/if_elif_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 4/if_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 4/or.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 4/trafficLight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 4/usernameChecker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 5/LeapYearChecker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 5/OddOrEven.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 5/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 5/functionReturnValue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 5/functionWithParameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 5/recursiveFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 6/divisorCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 6/forLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 6/guessTheNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 6/infiniteLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 6/mathQuiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 6/multiplicativeNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 6/welcome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 6/whileLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 7/addAndDelete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 7/intoString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 7/lengthOfArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 7/loopThroughArrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 7/miniProject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 7/myFirstArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 8/dice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 8/rokPaperScissors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 9/contoh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/lesson 9/guessTheNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 1/classProject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 1/latihanClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 11/Game_title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 11/HarvestOst.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 11/Idle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 11/Interior.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 11/Title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 11/Title.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 11/adventurer-Sheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 11/global.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 11/player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 11/read me.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 11/screen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 11/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 2/inheritance01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 2/inheritance02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 2/inheritance02_super.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 2/inheritance02_super02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 2/latihan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 3/latihan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 3/latihanArcade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 4/latihan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 6/character.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 6/coin_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 6/latihan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 6/score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 7/coin.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 7/die.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 7/gameMap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 7/gameover.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 7/jump.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson 7/supermario.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson12/Game_title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson12/HarvestOst.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson12/Interior.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson12/Title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson12/gamePlay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python2/lesson12/global.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2SnFPLCtg2Bz2USqmZzAogo7R0I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Aap Hapipah/PycharmProjects/python"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fc7ecb3-b78f-4416-856a-5f9c8d8a5e06" name="Changes" comment="" />
+      <created>1689774413178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689774413178</updated>
+    </task>
+    <servers />
+  </component>
+</project>
